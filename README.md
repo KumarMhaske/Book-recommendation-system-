@@ -30,7 +30,7 @@ Books are identified by their respective ISBN. Invalid ISBNs have already been r
 Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
 ## Dataset
-https://drive.google.com/drive/folders/1ezD81dd7Ouy-j5hC3sag699MoE-zMVLq?usp=share_link
+https://drive.google.com/drive/folders/1Eh92wOYslPmElJwoukKxwiqqlbiaJkuV?usp=share_link
 
 ## Objective
 The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors.
